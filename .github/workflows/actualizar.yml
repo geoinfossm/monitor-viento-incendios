@@ -1,0 +1,53 @@
+name: Actualizar viento e incendios
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Restaurar caché de viento
+        uses: actions/cache@v4
+        with:
+          path: cache
+          key: viento-${{ github.run_id }}
+          restore-keys: viento-
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Calcular viento y cruce con incendios
+        env:
+          CONAF_URL: ${{ vars.CONAF_URL }}
+        run: python monitor_viento_incendios.py
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
