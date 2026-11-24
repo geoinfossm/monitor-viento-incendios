@@ -1,0 +1,43 @@
+{
+  "establecimientos_csv": "data/establecimientos.csv",
+  "columnas": {
+    "id": "id",
+    "nombre": "nombre",
+    "tipo": "tipo",
+    "comuna": "comuna",
+    "lat": "lat",
+    "lon": "lon"
+  },
+  "viento": {
+    "modelos": {
+      "ecmwf_ifs025": 0.4,
+      "gfs_seamless": 0.3,
+      "icon_seamless": 0.3
+    },
+    "celda_grados": 0.1,
+    "ttl_minutos": 60,
+    "max_antiguedad_cache_min": 180,
+    "lote": 40
+  },
+  "conaf": {
+    "url": "",
+    "where": "1=1",
+    "campos": {
+      "nombre": "",
+      "estado": "",
+      "superficie": "",
+      "fecha": ""
+    },
+    "estados_activos": [
+      "En combate"
+    ]
+  },
+  "criterios": {
+    "radio_busqueda_km": 30,
+    "tolerancia_grados": 45,
+    "radio_alerta_km": 10,
+    "radio_vigilancia_km": 25,
+    "radio_proximidad_km": 5,
+    "viento_minimo_kmh": 8
+  }
+}

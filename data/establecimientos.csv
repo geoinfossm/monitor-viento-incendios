@@ -1,0 +1,4 @@
+id,nombre,tipo,comuna,lat,lon
+EJEMPLO-1,REEMPLAZAR POR TU TABLA REAL (ejemplo Talca),Hospital,Talca,-35.42787,-71.60222
+EJEMPLO-2,REEMPLAZAR POR TU TABLA REAL (ejemplo Curicó),CESFAM,Curicó,-35.19893,-70.89570
+EJEMPLO-3,REEMPLAZAR POR TU TABLA REAL (ejemplo Linares),CESFAM,Linares,-35.95830,-71.33218
