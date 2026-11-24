@@ -1,0 +1,317 @@
+id,nombre,tipo,comuna,lat,lon
+116601,COSAM de Linares,Centro Comunitario de Salud Mental  (COSAM),Linares,-35.841327,-71.59729
+116602,COSAM Sin Fronteras,Centro Comunitario de Salud Mental  (COSAM),Talca,-35.43577,-71.67828
+116012,Clínica Dental Móvil (Talca),Unidad de Procedimientos Móvil,Talca,-35.428983,-71.665322
+200598,Clínica Dental Móvil Pat. TJZ-938 (Talca),Unidad de Procedimientos Móvil,Talca,-35.428967,-71.667059
+200599,Clínica Dental Móvil Pat. TJZ-763 (Talca),Unidad de Procedimientos Móvil,Talca,-35.428962,-71.667136
+116011,PRAIS (S.S Del Maule),Otro,Talca,-35.425998,-71.663027
+200625,COSAM Ayelén,Centro Comunitario de Salud Mental  (COSAM),Constitución,-35.331011,-72.408705
+200934,COSAM Rayün,Centro Comunitario de Salud Mental  (COSAM),Curicó,-34.981182,-71.245271
+116801,SAR Aguas Negras,Servicio de Atención Primaria de Urgencia de Alta Resolutividad (SAR),Curicó,-34.998104,-71.248924
+116802,SAR Bombero Garrido,Servicio de Atención Primaria de Urgencia de Alta Resolutividad (SAR),Curicó,-34.977179,-71.264039
+116703,Centro Comunitario de Salud Familiar Prosperidad,Centro Comunitario de Salud Familiar (CECOSF),Curicó,-34.99598,-71.25466
+116803,SAPU Curicó Centro,Servicio de Atención Primaria de Urgencia (SAPU),Curicó,-34.976651,-71.237891
+200760,SUR Lontue,Servicio de Urgencia Rural (SUR),Molina,-35.055843,-71.274091
+116705,Centro Comunitario de Salud Familiar Brilla el Sol,Centro Comunitario de Salud Familiar (CECOSF),Talca,-35.44113,-71.66165
+116760,Centro Comunitario de Salud Familiar Faustino González,Centro Comunitario de Salud Familiar (CECOSF),Talca,-35.41779,-71.64283
+116805,SAPU José Dionisio Astaburuaga,Servicio de Atención Primaria de Urgencia (SAPU),Talca,-35.412085,-71.654915
+116806,SAR La Florida,Servicio de Atención Primaria de Urgencia de Alta Resolutividad (SAR),Talca,-35.435409,-71.678244
+116807,SAPU Julio Contardo Urzúa,Servicio de Atención Primaria de Urgencia (SAPU),Talca,-35.447479,-71.654579
+200148,SAPU Valentín Letelier,Servicio de Atención Primaria de Urgencia (SAPU),Linares,-35.85155,-71.604769
+116809,SAR San Juan de Dios de Linares,Servicio de Atención Primaria de Urgencia de Alta Resolutividad (SAR),Linares,-35.851282,-71.590054
+200351,Centro Comunitario de Salud Familiar Yerbas Buenas,Centro Comunitario de Salud Familiar (CECOSF),Linares,-35.84058,-71.58263
+200522,SAR Villa Alegre,Servicio de Atención Primaria de Urgencia de Alta Resolutividad (SAR),Villa Alegre,-35.686114,-71.735372
+116764,Centro Comunitario de Salud Familiar Loma de Las Tortillas,Centro Comunitario de Salud Familiar (CECOSF),Villa Alegre,-35.62251,-71.74718
+116711,Centro Comunitario de Salud Familiar Los Olivos,Centro Comunitario de Salud Familiar (CECOSF),Parral,-36.14776,-71.81516
+116811,SAR Parral,Servicio de Atención Primaria de Urgencia de Alta Resolutividad (SAR),Parral,-36.143449,-71.832433
+200266,Centro Comunitario de Salud Familiar Buenos Aires,Centro Comunitario de Salud Familiar (CECOSF),Parral,-36.13326,-71.82061
+116731,Centro Comunitario de Salud Familiar Lo Figueroa,Centro Comunitario de Salud Familiar (CECOSF),Pencahue,-35.40977,-71.75961
+200775,SUR Pencahue,Servicio de Urgencia Rural (SUR),Pencahue,-35.397854,-71.798241
+200232,Centro Comunitario de Salud Familiar San Máximo,Centro Comunitario de Salud Familiar (CECOSF),San Clemente,-35.542464,-71.485194
+116813,SAR Luis Tobar Rojas,Servicio de Atención Primaria de Urgencia de Alta Resolutividad (SAR),San Clemente,-35.53597,-71.491996
+116713,Centro Comunitario de Salud Familiar Chile Nuevo,Centro Comunitario de Salud Familiar (CECOSF),San Clemente,-35.52001,-71.51601
+116780,Centro Comunitario de Salud Familiar Aurora,Centro Comunitario de Salud Familiar (CECOSF),San Clemente,-35.493629,-71.527476
+200776,SAPU Maule,Servicio de Atención Primaria de Urgencia (SAPU),Maule,-35.524906,-71.672173
+200233,Centro Comunitario de Salud Familiar Villa Francia,Centro Comunitario de Salud Familiar (CECOSF),Maule,-35.4596,-71.6633
+200773,SUR Pelarco,Servicio de Urgencia Rural (SUR),Pelarco,-35.382956,-71.446452
+116765,Centro Comunitario de Salud Familiar Los Robles,Centro Comunitario de Salud Familiar (CECOSF),Retiro,-36.14002,-71.72276
+200772,SUR Río Claro,Servicio de Urgencia Rural (SUR),Río Claro,-35.28283,-71.255588
+200782,SUR Colbun,Servicio de Urgencia Rural (SUR),Colbún,-35.697141,-71.402967
+200780,SUR Yerbas Buenas,Servicio de Urgencia Rural (SUR),Yerbas Buenas,-35.75062,-71.588084
+200783,SUR Panimavida,Servicio de Urgencia Rural (SUR),Colbún,-35.760574,-71.418192
+116762,Centro Comunitario de Salud Familiar Los Cristales,Centro Comunitario de Salud Familiar (CECOSF),Longaví,-36.01465,-71.65108
+116820,SAPU Amanda Benavente,Servicio de Atención Primaria de Urgencia (SAPU),Longaví,-35.965065,-71.685884
+200349,Centro Comunitario de Salud Familiar Villa Longaví,Centro Comunitario de Salud Familiar (CECOSF),Longaví,-35.96211,-71.68932
+116490,Centro Comunitario de Salud Familiar Camelias,Centro Comunitario de Salud Familiar (CECOSF),Retiro,-36.21106,-71.60496
+200779,SUR Marta Estevez - Retiro,Servicio de Urgencia Rural (SUR),Retiro,-36.051427,-71.760991
+200784,SUR Curanipe,Servicio de Urgencia Rural (SUR),Pelluhue,-35.846509,-72.635572
+116506,Centro Comunitario de Salud Familiar Pelluhue,Centro Comunitario de Salud Familiar (CECOSF),Pelluhue,-35.81126,-72.57287
+116823,SAPU Oscar Bonilla,Servicio de Atención Primaria de Urgencia (SAPU),Linares,-35.834679,-71.596092
+200774,SUR San Rafael,Servicio de Urgencia Rural (SUR),San Rafael,-35.306356,-71.517781
+200765,SUR Sagrada Familia,Servicio de Urgencia Rural (SUR),Sagrada Familia,-35.00040329,-71.39091784
+200766,SUR Villa Prat,Servicio de Urgencia Rural (SUR),Sagrada Familia,-35.095915,-71.614724
+200762,SUR Vichuquén,Servicio de Urgencia Rural (SUR),Vichuquén,-34.878802,-71.994221
+200764,SUR Romeral,Servicio de Urgencia Rural (SUR),Romeral,-34.95981,-71.127052
+116829,SAR Dr. Juan Saavedra Macaya,Servicio de Atención Primaria de Urgencia de Alta Resolutividad (SAR),Cauquenes,-35.964271,-72.317408
+116729,Centro Comunitario de Salud Familiar Población Fernández,Centro Comunitario de Salud Familiar (CECOSF),Cauquenes,-35.95794,-72.29983
+116761,Centro Comunitario de Salud Familiar Doña Carmen de Sarmiento,Centro Comunitario de Salud Familiar (CECOSF),Curicó,-34.94485,-71.20368
+200758,SUR Sarmiento,Servicio de Urgencia Rural (SUR),Curicó,-34.937184,-71.19523
+200352,Centro Comunitario de Salud Familiar Carlos Trupp,Centro Comunitario de Salud Familiar (CECOSF),Talca,-35.44597,-71.63614
+116831,SAR Carlos Trupp,Servicio de Atención Primaria de Urgencia de Alta Resolutividad (SAR),Talca,-35.439942,-71.63321
+200340,Centro Comunitario de Salud Familiar Chacarillas,Centro Comunitario de Salud Familiar (CECOSF),Constitución,-35.34023,-72.42305
+200763,SUR Rauco,Servicio de Urgencia Rural (SUR),Rauco,-34.923461,-71.317285
+200777,SUR Empedrado,Servicio de Urgencia Rural (SUR),Empedrado,-35.590225,-72.281722
+200759,SUR Morza,Servicio de Urgencia Rural (SUR),Teno,-34.822251,-71.020763
+200757,SUR Los Niches,Servicio de Urgencia Rural (SUR),Curicó,-35.06974,-71.155069
+116840,SAR Las Américas,Servicio de Atención Primaria de Urgencia de Alta Resolutividad (SAR),Talca,-35.404259,-71.647586
+116741,Centro Comunitario de Salud Familiar Rosita O'Higgins,Centro Comunitario de Salud Familiar (CECOSF),Cauquenes,-35.9621,-72.33618
+116763,Centro Comunitario de Salud Familiar San Pablo,Centro Comunitario de Salud Familiar (CECOSF),San Javier,-35.59911,-71.74411
+201043,SUR La Huerta de Hualañé,Servicio de Urgencia Rural (SUR),Hualañé,-35.089365,-71.656547
+200761,SUR Iloca,Servicio de Urgencia Rural (SUR),Licantén,-34.934421,-72.18039
+200771,SUR El Colorado,Servicio de Urgencia Rural (SUR),San Clemente,-35.641248,-71.262043
+200769,SUR Putu,Servicio de Urgencia Rural (SUR),Constitución,-35.212861,-72.284449
+200768,SUR Santa Olga,Servicio de Urgencia Rural (SUR),Constitución,-35.451167,-72.277477
+200778,SUR Vara Gruesa,Servicio de Urgencia Rural (SUR),Linares,-35.829975,-71.589966
+200781,SUR El Aromo,Servicio de Urgencia Rural (SUR),San Javier,-35.574794,-71.67211156
+200767,SUR Mercedes,Servicio de Urgencia Rural (SUR),Talca,-35.472053,-71.557428
+200770,SUR El Álamo,Servicio de Urgencia Rural (SUR),San Clemente,-35.818345,-70.820292
+116832,SAR Constitución,Servicio de Atención Primaria de Urgencia de Alta Resolutividad (SAR),Constitución,-35.336625,-72.416548
+116564,Posta de Salud Rural Villa Baviera,Posta de Salud Rural (PSR),Parral,-36.387935,-71.585985
+116493,Posta de Salud Rural Los Canelos (Parral),Posta de Salud Rural (PSR),Parral,-36.303463,-71.31812
+116494,Posta de Salud Rural Bullileo,Posta de Salud Rural (PSR),Parral,-36.288958,-71.414922
+116550,Posta de Salud Rural Bajos de Huenutil,Posta de Salud Rural (PSR),Parral,-36.288946,-71.741127
+116496,Posta de Salud Rural Catillo,Posta de Salud Rural (PSR),Parral,-36.28591,-71.65239
+116523,Posta de Salud Rural Monte Flor,Posta de Salud Rural (PSR),Parral,-36.238563,-71.941073
+200728,Posta de Salud Rural San Alejo,Posta de Salud Rural (PSR),Parral,-36.234775,-71.550264
+116551,Posta de Salud Rural Talquita,Posta de Salud Rural (PSR),Parral,-36.235919,-71.808854
+116522,Posta de Salud Rural Los Carros,Posta de Salud Rural (PSR),Parral,-36.23168,-71.72478
+116497,Posta de Salud Rural Perquilauquén,Posta de Salud Rural (PSR),Parral,-36.077547,-72.077944
+116486,Posta de Salud Rural Loma de Vásquez,Posta de Salud Rural (PSR),Longaví,-36.223188,-71.446623
+116560,Posta de Salud Rural La Orilla (Parral),Posta de Salud Rural (PSR),Parral,-36.2101,-71.5761
+116524,Posta de Salud Rural Fuerte Viejo,Posta de Salud Rural (PSR),Parral,-36.16361,-72.02751
+116556,Posta de Salud Rural Pocillas,Posta de Salud Rural (PSR),Cauquenes,-36.16172,-72.23107
+116491,Posta de Salud Rural San Marcos (Retiro),Posta de Salud Rural (PSR),Retiro,-36.16011,-71.73795
+116484,Posta de Salud Rural San José (Longaví),Posta de Salud Rural (PSR),Longaví,-36.151157,-71.581084
+116311,Centro de Salud Familiar Arrau Méndez,Centro de Salud Familiar (CESFAM),Parral,-36.14693,-71.83847
+116502,Posta de Salud Rural Tres Esquinas (Cauquenes),Posta de Salud Rural (PSR),Cauquenes,-36.14417,-72.29366
+116526,Posta de Salud Rural Santa Delfina,Posta de Salud Rural (PSR),Retiro,-36.1431,-71.65764
+116110,Hospital San José (Parral),Hospital,Parral,-36.141982,-71.814027
+116478,Posta de Salud Rural Los Hualles,Posta de Salud Rural (PSR),Linares,-36.133306,-71.324424
+116503,Posta de Salud Rural Cancha de Los Huevos,Posta de Salud Rural (PSR),Cauquenes,-36.09699,-72.47368
+116516,Posta de Salud Rural El Carmen( Longaví),Posta de Salud Rural (PSR),Longaví,-36.08982,-71.5577
+116492,Posta de Salud Rural Copihue,Posta de Salud Rural (PSR),Retiro,-36.089751,-71.801236
+116501,Posta de Salud Rural Quella,Posta de Salud Rural (PSR),Cauquenes,-36.057582,-72.091152
+116532,Posta de Salud Rural Lomas de la Tercera,Posta de Salud Rural (PSR),Longaví,-36.05508,-71.64008
+116412,Posta de Salud Rural Pejerrey,Posta de Salud Rural (PSR),Linares,-36.0538,-71.40136
+116504,Posta de Salud Rural Coronel,Posta de Salud Rural (PSR),Cauquenes,-36.05285,-72.45526
+116483,Posta de Salud Rural La Quinta,Posta de Salud Rural (PSR),Longaví,-36.05223,-71.56868
+116321,Centro de Salud Familiar Marta Estévez,Centro de Salud Familiar (CESFAM),Retiro,-36.051316,-71.761564
+116527,Posta de Salud Rural San Ramón (Retiro),Posta de Salud Rural (PSR),Retiro,-36.00834,-71.84111
+116329,Centro de Salud Familiar Armando Williams,Centro de Salud Familiar (CESFAM),Cauquenes,-35.98253,-72.31324
+116476,Posta de Salud Rural Vega de Salas,Posta de Salud Rural (PSR),Linares,-35.98172,-71.38849
+116402,Posta de Salud Rural Pilén,Posta de Salud Rural (PSR),Cauquenes,-35.98133,-72.45443
+116487,Posta de Salud Rural Piguchén (Retiro),Posta de Salud Rural (PSR),Retiro,-35.974578,-71.769929
+116482,Posta de Salud Rural Mesamávida (Longaví),Posta de Salud Rural (PSR),Longaví,-35.9772,-71.56887
+116499,Posta de Salud Rural Cayurranquil,Posta de Salud Rural (PSR),Cauquenes,-35.971063,-72.552306
+116555,Posta de Salud Rural Santa Sofía,Posta de Salud Rural (PSR),Cauquenes,-35.96715,-72.35595
+116320,Centro de Salud Familiar Amanda Benavente,Centro de Salud Familiar (CESFAM),Longaví,-35.96519,-71.68568
+116111,Hospital San Juan de Dios (Cauquenes),Hospital,Cauquenes,-35.963105,-72.32527
+116341,Centro de Salud Familiar Dr. Ricardo Valdés Hurtado,Centro de Salud Familiar (CESFAM),Cauquenes,-35.9504,-72.3466
+116480,Posta de Salud Rural Miraflores,Posta de Salud Rural (PSR),Longaví,-35.91873,-71.64521
+116508,Posta de Salud Rural Chovellén,Posta de Salud Rural (PSR),Pelluhue,-35.915099,-72.666053
+116474,Posta de Salud Rural Embalse Ancoa,Posta de Salud Rural (PSR),Linares,-35.9059,-71.28942
+116537,Posta de Salud Rural Llancanao,Posta de Salud Rural (PSR),Linares,-35.89484,-71.52145
+116489,Posta de Salud Rural Talhuenes,Posta de Salud Rural (PSR),Retiro,-35.88787,-71.99273
+116531,Posta de Salud Rural San Víctor Álamos,Posta de Salud Rural (PSR),Linares,-35.886161,-71.471983
+116548,Posta de Salud Rural La Vega (Chanco),Posta de Salud Rural (PSR),Chanco,-35.87561,-72.44503
+116709,Centro de Salud Familiar Luis Navarrete Carvacho,Centro de Salud Familiar (CESFAM),Linares,-35.86696,-71.59418
+116477,Posta de Salud Rural Chupallar,Posta de Salud Rural (PSR),Linares,-35.86576,-71.23652
+116488,Posta de Salud Rural Villaseca,Posta de Salud Rural (PSR),Retiro,-35.86232,-71.83666
+116308,Centro de Salud Familiar Valentín Letelier,Centro de Salud Familiar (CESFAM),Linares,-35.85141,-71.60484
+116309,Centro de Salud Familiar San Juan Dios,Centro de Salud Familiar (CESFAM),Linares,-35.85141,-71.59022
+116322,Centro de Salud Familiar Dr. Pedro Rivas Pinochet,Centro de Salud Familiar (CESFAM),Pelluhue,-35.84645,-72.63561
+116108,Hospital Presidente Carlos Ibáñez del Campo (Linares),Hospital,Linares,-35.844282,-71.590991
+116323,Centro de Salud Familiar Oscar Bonilla,Centro de Salud Familiar (CESFAM),Linares,-35.8407989,-71.6081485
+116515,Posta de Salud Rural Vara Gruesa,Posta de Salud Rural (PSR),Linares,-35.83049,-71.51284
+116505,Posta de Salud Rural Lomas de Putagán,Posta de Salud Rural (PSR),Colbún,-35.828413,-71.446164
+116481,Posta de Salud Rural Huimeo,Posta de Salud Rural (PSR),Longaví,-35.8268,-71.75442
+116500,Posta de Salud Rural Santo Toribio,Posta de Salud Rural (PSR),Cauquenes,-35.834129,-72.033336
+116570,Posta de Salud Rural La Mina,Posta de Salud Rural (PSR),San Clemente,-35.818226,-70.820148
+200350,Posta de Salud Rural Quinamávida,Posta de Salud Rural (PSR),Colbún,-35.80495,-71.43757
+116473,Posta de Salud Rural Palmilla (Linares),Posta de Salud Rural (PSR),Linares,-35.80374,-71.74299
+116464,Posta de Salud Rural Caliboro,Posta de Salud Rural (PSR),San Javier,-35.79157,-71.89095
+116562,Posta de Salud Rural Las Toscas,Posta de Salud Rural (PSR),Linares,-35.78144,-71.707689
+116558,Posta de Salud Rural Lagunillas (Chanco),Posta de Salud Rural (PSR),Chanco,-35.770361,-72.455236
+116498,Posta de Salud Rural Tapihue,Posta de Salud Rural (PSR),Cauquenes,-35.772709,-72.303509
+116467,Posta de Salud Rural Putagán,Posta de Salud Rural (PSR),Villa Alegre,-35.7642,-71.66773
+116319,Centro de Salud Familiar Panimávida,Centro de Salud Familiar (CESFAM),Colbún,-35.76048,-71.4183
+116452,Posta de Salud Rural La Suiza,Posta de Salud Rural (PSR),San Clemente,-35.758084,-71.001592
+116318,Centro de Salud Familiar Ignacio Carrera Pinto,Centro de Salud Familiar (CESFAM),Yerbas Buenas,-35.75061,-71.58814
+116547,Posta de Salud Rural Puipuyén,Posta de Salud Rural (PSR),Yerbas Buenas,-35.75013,-71.52812
+116112,Hospital Dr. Benjamín Pedreros (Chanco),Hospital,Chanco,-35.73956,-72.53145
+116463,Posta de Salud Rural Melozal,Posta de Salud Rural (PSR),San Javier,-35.73588,-71.80008
+116559,Posta de Salud Rural Floresta,Posta de Salud Rural (PSR),Colbún,-35.71759,-71.48237
+116539,Posta de Salud Rural El Cardonal,Posta de Salud Rural (PSR),Chanco,-35.71719,-72.42204
+116563,Posta de Salud Rural Sauzal,Posta de Salud Rural (PSR),Cauquenes,-35.721347,-72.126494
+116317,Centro de Salud Familiar Alcalde Francisco Sepúlveda Salgado,Centro de Salud Familiar (CESFAM),Colbún,-35.69707,-71.40322
+116466,Posta de Salud Rural Estación,Posta de Salud Rural (PSR),Villa Alegre,-35.69406,-71.67643
+116519,Posta de Salud Rural Esperanza,Posta de Salud Rural (PSR),Villa Alegre,-35.69204,-71.6157
+116310,Centro de Salud Familiar Jorge del Campo Amaro,Centro de Salud Familiar (CESFAM),Villa Alegre,-35.68609,-71.73483
+200619,Posta de Salud Rural Semillero,Posta de Salud Rural (PSR),Yerbas Buenas,-35.67004,-71.46342
+116462,Posta de Salud Rural Huerta,Posta de Salud Rural (PSR),San Javier,-35.6618,-71.94937
+116469,Posta de Salud Rural Peñuelas,Posta de Salud Rural (PSR),Villa Alegre,-35.65242,-71.57929
+116468,Posta de Salud Rural Lagunillas ( Villa Alegre ),Posta de Salud Rural (PSR),Villa Alegre,-35.652272,-71.652963
+116471,Posta de Salud Rural Maitencillo (Yerbas Buenas),Posta de Salud Rural (PSR),Yerbas Buenas,-35.65061,-71.5062
+116430,Posta de Salud Rural El Colo,Posta de Salud Rural (PSR),Chanco,-35.64451,-72.49323
+116451,Posta de Salud Rural El Colorado,Posta de Salud Rural (PSR),San Clemente,-35.64119,-71.26199
+200038,Posta de Salud Rural Alquihue,Posta de Salud Rural (PSR),San Javier,-35.63957,-71.80996
+116472,Posta de Salud Rural Maule Sur,Posta de Salud Rural (PSR),Colbún,-35.63701,-71.402241
+116465,Posta de Salud Rural El Sauce de San Javier,Posta de Salud Rural (PSR),San Javier,-35.62324,-71.67677
+116470,Posta de Salud Rural Orilla de Maule,Posta de Salud Rural (PSR),Yerbas Buenas,-35.617693,-71.539769
+116509,Posta de Salud Rural Pahuil,Posta de Salud Rural (PSR),Chanco,-35.61727,-72.56903
+116342,Centro de Salud Familiar Dr. Carlos Díaz Gidi,Centro de Salud Familiar (CESFAM),San Javier,-35.60111,-71.73439
+116453,Posta de Salud Rural Maitenes,Posta de Salud Rural (PSR),San Clemente,-35.589168,-71.429628
+116553,Posta de Salud Rural Quilhuine,Posta de Salud Rural (PSR),Chanco,-35.59355,-72.52816
+116461,Posta de Salud Rural Villavicencio,Posta de Salud Rural (PSR),San Javier,-35.59292,-71.88953
+116458,Posta de Salud Rural Buenos Aires,Posta de Salud Rural (PSR),San Clemente,-35.59268,-71.37028
+116109,Hospital Dr. Abel Fuentealba Lagos de San Javier,Hospital,San Javier,-35.590724,-71.737445
+116334,Centro de Salud Familiar Empedrado,Centro de Salud Familiar (CESFAM),Empedrado,-35.59029,-72.28193
+116510,Posta de Salud Rural Loanco,Posta de Salud Rural (PSR),Chanco,-35.58938,-72.60991
+116460,Posta de Salud Rural Rastrojos,Posta de Salud Rural (PSR),San Javier,-35.58291,-72.11439
+116450,Posta de Salud Rural Los Montes,Posta de Salud Rural (PSR),San Clemente,-35.57957,-71.26113
+116518,Posta de Salud Rural El Aromo,Posta de Salud Rural (PSR),San Javier,-35.574715,-71.671993
+116448,Posta de Salud Rural Vilches,Posta de Salud Rural (PSR),San Clemente,-35.56697,-71.1707
+116546,Posta de Salud Rural Chequén,Posta de Salud Rural (PSR),San Clemente,-35.56551,-71.55958
+116441,Posta de Salud Rural Duao de Maule,Posta de Salud Rural (PSR),Maule,-35.55673,-71.58827
+116449,Posta de Salud Rural Corralones,Posta de Salud Rural (PSR),San Clemente,-35.55233,-71.354818
+116442,Posta de Salud Rural Quiñipeumo,Posta de Salud Rural (PSR),Maule,-35.55141,-71.63733
+116459,Posta de Salud Rural Nirivilo,Posta de Salud Rural (PSR),San Javier,-35.54227,-72.090252
+116313,Centro de Salud Familiar Dr. Juan Carlos Baeza,Centro de Salud Familiar (CESFAM),San Clemente,-35.53589,-71.49258
+116407,Posta de Salud Rural Pellines (Empedrado),Posta de Salud Rural (PSR),Empedrado,-35.535341,-72.287571
+116447,Posta de Salud Rural Mariposas,Posta de Salud Rural (PSR),San Clemente,-35.52938,-71.42217
+116314,Centro de Salud Familiar Practicante Julio Camilo Zamorano Sánchez,Centro de Salud Familiar (CESFAM),Maule,-35.52507,-71.69505
+201095,COSAM Raíces de Maule,Centro Comunitario de Salud Mental  (COSAM),Maule,-35.523709,-71.690987
+116445,Posta de Salud Rural Punta de Diamante,Posta de Salud Rural (PSR),San Clemente,-35.49522,-71.32119
+116520,Posta de Salud Rural Santa Elena (San Clemente),Posta de Salud Rural (PSR),San Clemente,-35.48784,-71.466615
+116446,Posta de Salud Rural Las Lomas (San Clemente ),Posta de Salud Rural (PSR),San Clemente,-35.486234,-71.219334
+116440,Posta de Salud Rural Colín,Posta de Salud Rural (PSR),Maule,-35.47586,-71.74423
+116561,Posta de Salud Rural Mercedes,Posta de Salud Rural (PSR),Talca,-35.47207,-71.55733
+116542,Posta de Salud Rural Linares de Perales,Posta de Salud Rural (PSR),Maule,-35.46968,-71.84333
+116479,Posta de Salud Rural Las Cañas,Posta de Salud Rural (PSR),Constitución,-35.475003,-72.501996
+116512,Posta de Salud Rural Santa Olga,Posta de Salud Rural (PSR),Constitución,-35.450711,-72.277106
+116443,Posta de Salud Rural Peumo Negro,Posta de Salud Rural (PSR),San Clemente,-35.44809,-71.41551
+116307,Centro de Salud Familiar Dr. Julio Contardo Urzúa,Centro de Salud Familiar (CESFAM),Talca,-35.44752,-71.65486
+200072,Centro de Salud Familiar Villa Magisterio,Centro de Salud Familiar (CESFAM),Talca,-35.44263,-71.69844
+116438,Posta de Salud Rural Corinto,Posta de Salud Rural (PSR),Pencahue,-35.44049,-71.86583
+116331,Centro de Salud Familiar Carlos Trupp,Centro de Salud Familiar (CESFAM),Talca,-35.44003,-71.63343
+116444,Posta de Salud Rural La Placeta,Posta de Salud Rural (PSR),San Clemente,-35.43823,-71.12586
+116306,Centro de Salud Familiar La Florida,Centro de Salud Familiar (CESFAM),Talca,-35.43577,-71.67828
+116439,Posta de Salud Rural Tanhuao,Posta de Salud Rural (PSR),Pencahue,-35.4304,-71.97927
+116105,Hospital Dr. César Garavagno Burotto (Talca),Hospital,Talca,-35.426896,-71.646373
+116266,CREA Chile,Centro de Especialidades,Talca,-35.42689,-71.667409
+116766,Centro Comunitario de Salud Familiar Nuevo Horizonte,Centro Comunitario de Salud Familiar (CECOSF),Talca,-35.42643,-71.63093
+116265,Centro La Escalera,Centro de Especialidades,Talca,-35.426103,-71.645748
+116030,Unidad de Salud Funcionario S.S Del Maule,Otro,Talca,-35.425998,-71.663027
+116010,Actividades gestionadas por la Dirección del Servicio para apoyo de la Red (S.S Del Maule),Otro,Talca,-35.425998,-71.663027
+116150,Centro Reproductivo Regional de Sangre,Centro de Especialidades,Talca,-35.424841,-71.664407
+116541,Posta de Salud Rural El Manzano (Pelarco ),Posta de Salud Rural (PSR),Pelarco,-35.42124,-71.41523
+200987,Centro de Salud Familiar Bicentenario,Centro de Salud Familiar (CESFAM),Talca,-35.419792,-71.60947
+116343,Centro de Salud Familiar Faustino González,Centro de Salud Familiar (CESFAM),Talca,-35.418954,-71.637286
+116421,Posta de Salud Rural El Radal,Posta de Salud Rural (PSR),Molina,-35.41422,-71.05508
+116305,Centro de Salud Familiar José Dionisio Astaburuaga,Centro de Salud Familiar (CESFAM),Talca,-35.41184,-71.65525
+116340,Centro de Salud Familiar Las Américas,Centro de Salud Familiar (CESFAM),Talca,-35.40348,-71.6474
+116312,Centro de Salud Familiar Pencahue,Centro de Salud Familiar (CESFAM),Pencahue,-35.39771,-71.79808
+116571,Posta de Salud Rural Santa Rita,Posta de Salud Rural (PSR),Pelarco,-35.39527,-71.53165
+116552,Posta de Salud Rural Las Palmas de Toconey,Posta de Salud Rural (PSR),Pencahue,-35.392775,-72.049803
+116534,Posta de Salud Rural Huencuecho,Posta de Salud Rural (PSR),Pelarco,-35.38313,-71.347708
+116315,Centro de Salud Familiar Pelarco,Centro de Salud Familiar (CESFAM),Pelarco,-35.38275,-71.44662
+116436,Posta de Salud Rural Carrizalillo (Constitución ),Posta de Salud Rural (PSR),Constitución,-35.35314,-72.15776
+116332,Centro de Salud Familiar Cerro Alto,Centro de Salud Familiar (CESFAM),Constitución,-35.341,-72.41731
+116107,Hospital de Constitución,Hospital,Constitución,-35.339432,-72.402702
+116572,Posta de Salud Rural Pangue Arriba,Posta de Salud Rural (PSR),San Rafael,-35.33695,-71.43611
+200496,Centro de Salud Familiar Constitución,Centro de Salud Familiar (CESFAM),Constitución,-35.33324,-72.417
+116543,Posta de Salud Rural Batuco,Posta de Salud Rural (PSR),Pencahue,-35.32171,-71.95614
+116324,Centro de Salud Familiar San Rafael (San Rafael),Centro de Salud Familiar (CESFAM),San Rafael,-35.30465,-71.51513
+116316,Centro de Salud Familiar Cumpeo,Centro de Salud Familiar (CESFAM),Río Claro,-35.28284,-71.2557
+116437,Posta de Salud Rural Botalcura,Posta de Salud Rural (PSR),Pencahue,-35.28182,-71.77433
+116455,Posta de Salud Rural Gualleco,Posta de Salud Rural (PSR),Curepto,-35.24667,-71.98117
+116435,Posta de Salud Rural Coipué (Curepto),Posta de Salud Rural (PSR),Curepto,-35.251358,-72.091573
+116517,Posta de Salud Rural El Bolsico,Posta de Salud Rural (PSR),Río Claro,-35.24497,-71.18642
+116432,Posta de Salud Rural Camarico (Río Claro),Posta de Salud Rural (PSR),Río Claro,-35.22298,-71.41954
+116540,Posta de Salud Rural Los Robles (Río Claro),Posta de Salud Rural (PSR),Río Claro,-35.220625,-71.3679
+116457,Posta de Salud Rural Putú,Posta de Salud Rural (PSR),Constitución,-35.21292,-72.28443
+116434,Posta de Salud Rural Peñaflor,Posta de Salud Rural (PSR),Río Claro,-35.21043,-71.25459
+116422,Posta de Salud Rural El Yacal,Posta de Salud Rural (PSR),Molina,-35.19433,-71.1149
+116454,Posta de Salud Rural Rapilermo,Posta de Salud Rural (PSR),Curepto,-35.18257,-71.84242
+116417,Posta de Salud Rural Potrero Grande,Posta de Salud Rural (PSR),Curicó,-35.18083,-71.10627
+116525,Posta de Salud Rural Tres Esquinas (Molina),Posta de Salud Rural (PSR),Molina,-35.16888,-71.21578
+116433,Posta de Salud Rural Porvenir,Posta de Salud Rural (PSR),Río Claro,-35.16165,-71.28734
+116420,Posta de Salud Rural Itahue,Posta de Salud Rural (PSR),Molina,-35.142474,-71.364783
+116416,Posta de Salud Rural Upeo,Posta de Salud Rural (PSR),Curicó,-35.126662,-71.035328
+116418,Posta de Salud Rural Cordillerilla,Posta de Salud Rural (PSR),Curicó,-35.12337,-71.14677
+116419,Posta de Salud Rural Pichingal,Posta de Salud Rural (PSR),Molina,-35.11689,-71.21393
+116411,Posta de Salud Rural Huaquén (Curepto),Posta de Salud Rural (PSR),Curepto,-35.11556,-71.69453
+116521,Posta de Salud Rural Las Lomas (Curepto),Posta de Salud Rural (PSR),Curepto,-35.11471,-72.17559
+116538,Posta de Salud Rural Estancilla,Posta de Salud Rural (PSR),Curepto,-35.1085,-71.87314
+116102,Hospital de Molina,Hospital,Molina,-35.10776,-71.29579
+116326,Centro de Salud Familiar Villa Prat,Centro de Salud Familiar (CESFAM),Sagrada Familia,-35.0959,-71.61474
+116106,Hospital de Curepto,Hospital,Curepto,-35.0932,-72.02099
+116415,Posta de Salud Rural Chequenlemu,Posta de Salud Rural (PSR),Curicó,-35.09197,-71.09292
+116424,Posta de Salud Rural La Huerta,Posta de Salud Rural (PSR),Hualañé,-35.089337,-71.656578
+116338,Centro de Salud Familiar Los Niches,Centro de Salud Familiar (CESFAM),Curicó,-35.06962,-71.15513
+116514,Posta de Salud Rural Los Quillayes (Sagrada Familia),Posta de Salud Rural (PSR),Sagrada Familia,-35.073788,-71.474495
+116304,Centro de Salud Familiar Lontué,Centro de Salud Familiar (CESFAM),Molina,-35.05585,-71.2742
+116557,Posta de Salud Rural La Obra (Curicó),Posta de Salud Rural (PSR),Curicó,-35.0538,-71.22298
+116533,Posta de Salud Rural Santa Rosa (Sagrada Familia),Posta de Salud Rural (PSR),Sagrada Familia,-35.03982,-71.30535
+116405,Posta de Salud Rural Palquibudi,Posta de Salud Rural (PSR),Rauco,-35.03344,-71.52889
+116400,Posta de Salud Rural Limávida,Posta de Salud Rural (PSR),Curepto,-35.03169,-71.77015
+116425,Posta de Salud Rural Lora,Posta de Salud Rural (PSR),Licantén,-35.02753,-72.07724
+116456,Posta de Salud Rural Calpún,Posta de Salud Rural (PSR),Curepto,-35.02027,-72.03927
+116408,Posta de Salud Rural Juan Carlos Conteras Muñoz,Posta de Salud Rural (PSR),Romeral,-35.0131,-71.05721
+116544,Posta de Salud Rural El Porvenir,Posta de Salud Rural (PSR),Curicó,-35.0031,-71.18899
+116410,Posta de Salud Rural Los Queñes,Posta de Salud Rural (PSR),Romeral,-34.99898,-70.81315
+116325,CESFAM Sagrada Familia,Centro de Salud Familiar (CESFAM),Sagrada Familia,-35.00040329,-71.39091784
+116301,Centro de Salud Familiar Miguel Ángel Arenas López,Centro de Salud Familiar (CESFAM),Curicó,-34.99057,-71.2488
+116100,Hospital San Juan de Dios (Curicó),Hospital,Curicó,-34.978121,-71.213364
+116104,Hospital de Licantén,Hospital,Licantén,-34.9815511,-71.986003
+116409,Posta de Salud Rural Clara Sanhueza Matamala,Posta de Salud Rural (PSR),Romeral,-34.978528,-70.983239
+116303,Centro de Salud Familiar Curicó Centro,Centro de Salud Familiar (CESFAM),Curicó,-34.97649,-71.23778
+116103,Hospital de Hualañé,Hospital,Hualañé,-34.97638,-71.80556
+116300,Centro De Salud Familiar A.S. Betty Muñoz Arce (Ex Sol de Septiembre),Centro de Salud Familiar (CESFAM),Curicó,-34.97605,-71.21886
+116302,Centro de Salud Familiar Colón,Centro de Salud Familiar (CESFAM),Curicó,-34.97288,-71.24795
+116403,Posta de Salud Rural El Manzano ( Teno),Posta de Salud Rural (PSR),Teno,-34.97237,-70.92763
+116528,Posta de Salud Rural La Pesca,Posta de Salud Rural (PSR),Licantén,-34.96583,-72.18398
+116413,Posta de Salud Rural Tutuquén,Posta de Salud Rural (PSR),Curicó,-34.980201,-71.345423
+116328,Centro de Salud Familiar EU Nancy González Díaz de Romeral,Centro de Salud Familiar (CESFAM),Romeral,-34.95238,-71.12284
+116529,Posta de Salud Rural Barba Rubia,Posta de Salud Rural (PSR),Hualañé,-34.94422,-71.652568
+116330,Centro de Salud Familiar Sarmiento,Centro de Salud Familiar (CESFAM),Curicó,-34.93733,-71.19522
+116427,Posta de Salud Rural Iloca,Posta de Salud Rural (PSR),Licantén,-34.934335,-72.180503
+116333,Centro de Salud Familiar Rauco,Centro de Salud Familiar (CESFAM),Rauco,-34.92345,-71.31737
+116406,Posta de Salud Rural El Parrón,Posta de Salud Rural (PSR),Rauco,-34.92166,-71.50868
+116404,Posta de Salud Rural Santa Blanca,Posta de Salud Rural (PSR),Teno,-34.9201,-71.0291
+116426,Posta de Salud Rural Duao de Licantén,Posta de Salud Rural (PSR),Licantén,-34.88754,-72.17141
+116569,Posta de Salud Rural El Plumero,Posta de Salud Rural (PSR),Rauco,-34.884253,-71.278953
+116327,Centro de Salud Familiar Vichuquén,Centro de Salud Familiar (CESFAM),Vichuquén,-34.87872,-71.99417
+116101,Hospital de Teno,Hospital,Teno,-34.87095,-71.16378
+116530,Posta de Salud Rural Espinalillo,Posta de Salud Rural (PSR),Hualañé,-34.874316,-71.865613
+116429,Posta de Salud Rural Lipimávida,Posta de Salud Rural (PSR),Vichuquén,-34.84945,-72.14189
+116336,Centro de Salud Familiar Comalle,Centro de Salud Familiar (CESFAM),Teno,-34.8478,-71.27054
+116554,Posta de Salud Rural Raúl Folleraux,Posta de Salud Rural (PSR),Teno,-34.84004,-71.10383
+116335,Centro de Salud Familiar Morza,Centro de Salud Familiar (CESFAM),Teno,-34.82228,-71.02083
+116401,Posta de Salud Rural Monterilla,Posta de Salud Rural (PSR),Teno,-34.822286,-71.069641
+116431,Posta de Salud Rural Rarín,Posta de Salud Rural (PSR),Vichuquén,-34.77287,-71.925358
+116428,Posta de Salud Rural Llico de Vichuquén,Posta de Salud Rural (PSR),Vichuquén,-34.76472,-72.07862
+116549,Posta de Salud Rural Boyeruca,Posta de Salud Rural (PSR),Vichuquén,-34.68829,-72.04825
+201110,Clínica Móvil Preventiva Talca,Unidad de Procedimientos Móvil,Talca,-35.442551,-71.698569
+201082,Módulo Dental Programa de Salud Oral de Talca,Clínica Dental,Talca,-35.426858,-71.672329
+201287,Centro de Salud Familiar de Molina,Centro de Salud Familiar (CESFAM),Molina,-35.10736,-71.30023
+201454,Centro de Rehabilitación Integral Cauquenes,Centro de Rehabilitación,Cauquenes,-35.967928,-72.310176
+201813,Centro de Atención y Estimulación Neurodesarrollo Infantoadolescente CEA  Curicó,Centro de Rehabilitación,Curicó,-34.96132987,-71.24179242
+202212,Centro de Salud Mental Comunitaria de Cauquenes,Centro Comunitario de Salud Mental  (COSAM),Cauquenes,-35.9632909,-72.324946
+202213,Centro Comunitario de Salud Familiar (CECOSF) ORIENTE de Molina,Centro Comunitario de Salud Familiar (CECOSF),Molina,-35.1141263,-71.2791207
+202223,Posta de Salud Rural Palma Rosa,Posta de Salud Rural (PSR),Parral,-36.0901944,-71.8678889
+202258,Posta de Salud Rural San Ramón,Posta de Salud Rural (PSR),Constitución,-35.4170766,-72.3395051
+202302,"Centro de Resolutividad APS, de Curicó",Centro de Especialidades de Atención Primaria (CEAP),Curicó,-34.97596669,-71.21883403
+202365,Clínica Odontomédica Móvil Maule,Unidad de Procedimientos Móvil,Maule,-35.52507,-71.69505
+202375,ESPACIO DE DESARROLLO INTEGRAL INFANTO JUVENIL LICAYÜN,Centro de Rehabilitación,Licantén,-34.9827237,-71.9906292
+202386,SAPU San Javier,Servicio de Atención Primaria de Urgencia (SAPU),San Javier,-35.60111,-71.73439
