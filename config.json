@@ -15,7 +15,7 @@
       "icon_seamless": 0.3
     },
     "celda_grados": 0.1,
-    "ttl_minutos": 60,
+    "ttl_minutos": 90,
     "max_antiguedad_cache_min": 180,
     "lote": 40
   },
@@ -33,7 +33,7 @@
     ]
   },
   "criterios": {
-    "radio_busqueda_km": 30,
+    "radio_busqueda_km": 5,
     "tolerancia_grados": 45,
     "radio_alerta_km": 10,
     "radio_vigilancia_km": 25,
